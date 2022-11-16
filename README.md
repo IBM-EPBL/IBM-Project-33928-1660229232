@@ -1,6 +1,5 @@
-# IBM-Project-33928-1660229232
+# **IBM-Project-33928-1660229232**
 Smart Waste Management System For Metropolitan Cities
-# **IBM-Project-17521-1659672845**
 ![City_Waste_Managment_♻️ (1)](https://w.ndtvimg.com/sites/3/2022/07/27122933/solid_waste_management_rules_istock_660x330.jpg)
 ![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome)
 
